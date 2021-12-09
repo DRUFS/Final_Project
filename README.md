@@ -13,30 +13,28 @@ NYC is an incredibly dense city - people, buildings, cars, buses, trains, constr
     
 # II. *****Exploratory Questions*****
 
-    Im curious to explore the following:
+Im curious to explore the following:
     
-    - PM concentrations across NYC Boroughs
-    - PM producers across NYC
-    - PM concentration changes over time
-    - Temperature averages over time
-    - Elevation of PM cpncentrations
+- PM concentrations across NYC Boroughs
+- PM producers across NYC
+- PM concentration changes over time
+- Temperature averages over time
+- Elevation of PM cpncentrations
     
     
 # III. *****Hypothesis*****
     
-    Im curious to confirm whether or not temperature affects the PM count. I believe that when it is hotter, the PM count will be greater. I do believe with hotter air the particles will rise, but I'm also curious about cold temperatures potentially making the air more dense, which in turn may affect the pm concentration and AQI. 
+Im curious to confirm whether or not temperature affects the PM count. I believe that when it is hotter, the PM count will be greater. I do believe with hotter air the particles will rise, but I'm also curious about cold temperatures potentially making the air more dense, which in turn may affect the pm concentration and AQI. 
     
     
 # IV. *****Method*****
     
-    - I would like to gather daily data over NYC to plot the records alongside eachother and identify any relationships
-    
-    - I intend to collect this data from publicly available datasets within the EPA, NYC Gov, and NOAA
-    
-    - I will need temperature data to plot
-    - I need to gather PM concentrations and plot them alongside temperature
-    - Lastly I will need to sourcec AQI data to plot with the temperature and pm datasets
-    - I plan to use Python programming to organize the datasets. From there I can make calculations and visualize the data thorugh plots and tables. 
+- I would like to gather daily data over NYC to plot the records alongside eachother and identify any relationships
+- I intend to collect this data from publicly available datasets within the EPA, NYC Gov, and NOAA    
+- I will need temperature data to plot
+- I need to gather PM concentrations and plot them alongside temperature
+- Lastly I will need to sourcec AQI data to plot with the temperature and pm datasets
+- I plan to use Python programming to organize the datasets. From there I can make calculations and visualize the data thorugh plots and tables. 
 
     
 # V. *****Dataset Sources | General Figures & Education:*****
