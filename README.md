@@ -1,7 +1,7 @@
 
 # <center> **EESC 6901: Final Project**
     
-# <center> **Exploring the Relationship between the recorded Air Quality Index, PM Concentration, and Temperature in NYC**
+# <center> **Exploring the Relationship Between Recorded Air Quality Index, PM Concentration, and Temperature in NYC**
 
 <<center>![alt](https://www.eea.europa.eu/themes/air/airpollution.png/image)>
 
